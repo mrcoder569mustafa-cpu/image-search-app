@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Photo Search Engine | Unsplash API + JavaScript
 
 A responsive photo search engine using the **Unsplash API**. Built with **HTML**, **CSS**, and **JavaScript**.  
@@ -34,3 +35,7 @@ Allows users to search for images, browse categories, and download images direct
 
 
 
+=======
+# image-search-app
+A fully responsive Image Search Application powered by the Unsplash API. Features include real-time image search, category filters, load-more pagination, and one-click image downloading. Built using HTML, CSS, and vanilla JavaScript.
+>>>>>>> 5d54a0b6909ccc9e9bd24bab2b337debe727b3e1
